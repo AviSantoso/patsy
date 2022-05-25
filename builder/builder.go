@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dave/patsy/vos"
+	"github.com/AviSantoso/patsy/vos"
 	"github.com/pkg/errors"
 )
 

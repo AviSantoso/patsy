@@ -3,7 +3,7 @@
 package patsy
 
 //go:generate go get github.com/dave/rebecca/cmd/becca
-//go:generate becca -package=github.com/dave/patsy
+//go:generate becca -package=github.com/AviSantoso/patsy
 
 import (
 	"go/build"
@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dave/patsy/vos"
+	"github.com/AviSantoso/patsy/vos"
 	"github.com/pkg/errors"
 )
 

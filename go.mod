@@ -1,4 +1,4 @@
-module github.com/dave/patsy
+module github.com/AviSantoso/patsy
 
 go 1.12
 

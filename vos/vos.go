@@ -5,8 +5,8 @@ package vos
 import (
 	"io"
 
-	"github.com/dave/patsy/vos/mock"
-	"github.com/dave/patsy/vos/os"
+	"github.com/AviSantoso/patsy/vos/mock"
+	"github.com/AviSantoso/patsy/vos/os"
 )
 
 // Env provides an interface with methods similar to os.Environ, os.Getenv and
